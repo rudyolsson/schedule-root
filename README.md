@@ -1,4 +1,11 @@
-1. docker
-a. Open root project
-b. make start-dev to start postgres
+# UpShift ROOT Project
 
+## Description
+
+Root for scheduling app, a progressive User friendly scheduling application
+
+## Development
+
+```bash
+$ make start-dev
+```
